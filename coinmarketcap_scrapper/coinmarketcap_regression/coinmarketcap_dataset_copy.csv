@@ -1,0 +1,601 @@
+,link,marketcap,name,price,symbol,time
+0,/currencies/agavecoin,23048951,AgaveCoin,0.059006,AGVC,20201103161229
+1,/currencies/contracoin,23040705,CONTRACOIN,0.877858,CTCN,20201103161229
+2,/currencies/idex,23009894,IDEX,0.042928,IDEX,20201103161229
+3,/currencies/susd,22625413,sUSD,1.01,SUSD,20201103161229
+4,/currencies/thorenext,22546972,ThoreNext,0.470215,THX,20201103161229
+5,/currencies/bonorum,22426489,Bonorum,35.62,BONO,20201103161229
+6,/currencies/troy,22182779,TROY,0.002495,TROY,20201103161229
+7,/currencies/adx-net,21842972,AdEx Network,0.213987,ADX,20201103161229
+8,/currencies/haven-protocol,21611803,Haven Protocol,1.56,XHV,20201103161229
+9,/currencies/veruscoin,21514490,VerusCoin,0.369413,VRSC,20201103161229
+10,/currencies/darcio-ecosystem-coin,21451031,Darico Ecosystem Coin,0.340458,DEC,20201103161229
+11,/currencies/sora,21451277,Sora,61.29,XOR,20201103161229
+12,/currencies/dad,21442916,DAD,0.159306,DAD,20201103161229
+13,/currencies/bloomzed-token,21263551,Bloomzed Loyalty Club Ticket,0.559567,BLCT,20201103161229
+14,/currencies/funfair,21197048,FunFair,0.003237,FUN,20201103161229
+15,/currencies/buggyra-coin-zero,21053195,Buggyra Coin Zero,0.010470,BCZERO,20201103161229
+16,/currencies/fnb-protocol,20936574,FNB Protocol,0.008819,FNB,20201103161229
+17,/currencies/polymath-network,20929442,Polymath,0.039120,POLY,20201103161229
+18,/currencies/conun,20827372,CONUN,0.007191,CON,20201103161229
+19,/currencies/hashgard,20654503,Hashgard,0.000208,GARD,20201103161229
+20,/currencies/flamingo,20607412,Flamingo,0.137383,FLM,20201103161229
+21,/currencies/mx-token,20444451,MX Token,0.134837,MX,20201103161229
+22,/currencies/kardiachain,20375009,KardiaChain,0.011643,KAI,20201103161229
+23,/currencies/mxc,20368346,MXC,0.007840,MXC,20201103161229
+24,/currencies/nuls,20127316,NULS,0.202329,NULS,20201103161229
+25,/currencies/zynecoin,20098399,Zynecoin,0.907833,ZYN,20201103161229
+26,/currencies/loki,20057029,Loki,0.390930,LOKI,20201103161229
+27,/currencies/bigone-token,19895291,BigONE Token,0.002106,ONE,20201103161229
+28,/currencies/dynamic-trading-rights,19876150,Dynamic Trading Rights,0.012246,DTR,20201103161229
+29,/currencies/nash-exchange,19787129,Nash Exchange,0.844068,NEX,20201103161229
+30,/currencies/ripio-credit-network,19737274,Ripio Credit Network,0.038822,RCN,20201103161229
+31,/currencies/crpt,19525817,Crypterium,0.219489,CRPT,20201103161229
+32,/currencies/obyte,19431888,Obyte,25.78,GBYTE,20201103161229
+33,/currencies/prizm,19384390,PRIZM,0.008508,PZM,20201103161229
+34,/currencies/yflink,19103861,YF Link,381.20,YFL,20201103161229
+35,/currencies/vethor-token,18881590,VeThor Token,0.000646,VTHO,20201103161229
+36,/currencies/elitium,18806994,Elitium,1.11,EUM,20201103161229
+37,/currencies/cortex,18779158,Cortex,0.075135,CTXC,20201103161229
+38,/currencies/everipedia,18745621,Everipedia,0.001963,IQ,20201103161229
+39,/currencies/the-sandbox,18642069,The Sandbox,0.030703,SAND,20201103161229
+40,/currencies/metal,18302074,Metal,0.279042,MTL,20201103161229
+41,/currencies/yfdai-finance,17995697,YFDAI.FINANCE,1167.77,YF-DAI,20201103161229
+42,/currencies/apm-coin,17956338,apM Coin,0.049620,APM,20201103161229
+43,/currencies/bora,17850835,BORA,0.022812,BORA,20201103161229
+44,/currencies/request,17828196,Request,0.017829,REQ,20201103161229
+45,/currencies/kcash,17892854,Kcash,0.040164,KCASH,20201103161229
+46,/currencies/chainx,17710148,ChainX,2.38,PCX,20201103161229
+47,/currencies/orion-protocol,17600637,Orion Protocol,1.41,ORN,20201103161229
+48,/currencies/erc20,17574570,ERC20,0.015600,ERC20,20201103161229
+49,/currencies/invictus-hyperion-fund,17426607,Invictus Hyperion Fund,0.147666,IHF,20201103161229
+50,/currencies/huobi-pool-token,17332458,Huobi Pool Token,0.003326,HPT,20201103161229
+51,/currencies/massnet,17280271,Massnet,0.199379,MASS,20201103161229
+52,/currencies/basic,17278236,BASIC,0.006436,BASIC,20201103161229
+53,/currencies/wom-protocol,17129507,WOM Protocol,0.170940,WOM,20201103161229
+54,/currencies/newscrypto,17053230,Newscrypto,0.179068,NWC,20201103161229
+55,/currencies/cryptobucks,17052381,CRYPTOBUCKS,0.004337,CBUCKS,20201103161229
+56,/currencies/mainframe,17008177,Mainframe,0.001701,MFT,20201103161229
+57,/currencies/gleec,16989149,Gleec,1.33,GLEEC,20201103161229
+58,/currencies/suku,16739215,SUKU,0.210673,SUKU,20201103161229
+59,/currencies/certik,16727695,CertiK,0.756909,CTK,20201103161229
+60,/currencies/akropolis,16664256,Akropolis ,0.008349,AKRO,20201103161229
+61,/currencies/amp,16636691,Amp,0.003938,AMP,20201103161229
+62,/currencies/vidt-datalink,16567475,VIDT Datalink,0.335182,VIDT,20201103161229
+63,/currencies/crypto-village-accelerator,16475780,Crypto Village Accelerator,0.325265,CVA,20201103161229
+64,/currencies/xensor,16512047,Xensor,0.003563,XSR,20201103161229
+65,/currencies/civic,16368598,Civic,0.024431,CVC,20201103161229
+66,/currencies/origin-protocol,16250141,Origin Protocol,0.124604,OGN,20201103161229
+67,/currencies/beam,16230759,Beam,0.219544,BEAM,20201103161229
+68,/currencies/quantstamp,16218813,Quantstamp,0.022722,QSP,20201103161229
+69,/currencies/nexxo,16216678,Nexxo,0.075548,NEXXO,20201103161229
+70,/currencies/trust-wallet-token,16208815,Trust Wallet Token,0.064596,TWT,20201103161229
+71,/currencies/ergo,16193781,Ergo,0.699672,ERG,20201103161229
+72,/currencies/salus,16156673,SaluS,15.96,SLS,20201103161229
+73,/currencies/coti,16080782,COTI,0.028310,COTI,20201103161229
+74,/currencies/trustswap,16015253,TrustSwap,0.173844,SWAP,20201103161229
+75,/currencies/wazirx,15785336,WazirX,0.067511,WRX,20201103161229
+76,/currencies/davinci-coin,15632441,Davinci Coin,0.003401,DAC,20201103161229
+77,/currencies/ignis,15534138,Ignis,0.020409,IGNIS,20201103161229
+78,/currencies/celo-dollar,15523130,Celo Dollar,1.01,CUSD,20201103161229
+79,/currencies/loom-network,15472974,Loom Network,0.015943,LOOM,20201103161229
+80,/currencies/cindicator,15443197,Cindicator,0.007722,CND,20201103161229
+81,/currencies/gemini-dollar,15417454,Gemini Dollar,0.992318,GUSD,20201103161229
+82,/currencies/pivx,15350985,PIVX,0.270353,PIVX,20201103161229
+83,/currencies/unobtanium,15335209,Unobtanium,75.56,UNO,20201103161229
+84,/currencies/apollo-currency,15285043,Apollo Currency,0.001041,APL,20201103161229
+85,/currencies/airswap,15251813,AirSwap,0.101679,AST,20201103161229
+86,/currencies/parsiq,15176755,PARSIQ,0.136513,PRQ,20201103161229
+87,/currencies/yamv1,15119509,YAM v1,0.528296,YAM,20201103161229
+88,/currencies/bdcc-bitica-coin,14934946,BDCC Bitica COIN,4.01,BDCC,20201103161229
+89,/currencies/dent,14936431,Dent,0.000176,DENT,20201103161229
+90,/currencies/noia-network,14876797,NOIA Network,0.046288,NOIA,20201103161229
+91,/currencies/nimiq,14803305,Nimiq,0.002169,NIM,20201103161229
+92,/currencies/sport-and-leisure,14797099,Sport and Leisure,0.021884,SNL,20201103161229
+93,/currencies/b2bx,14728847,B2BX,0.750331,B2B,20201103161229
+94,/currencies/agoras-tokens,14709246,Agoras Tokens,0.492577,AGRS,20201103161229
+95,/currencies/bzx-protocol,14644488,bZx Protocol,0.104150,BZRX,20201103161229
+96,/currencies/synchrobitcoin,14528064,SynchroBitcoin,0.180980,SNB,20201103161229
+97,/currencies/etherisc,14501685,Etherisc DIP Token,0.086114,DIP,20201103161229
+98,/currencies/dragonchain,14351662,Dragonchain,0.039806,DRGN,20201103161229
+99,/currencies/celer-network,14286383,Celer Network,0.003595,CELR,20201103161229
+100,/currencies/hex,4135326458,HEX,0.010497,HEX,20201103161208
+101,/currencies/ize,1462030439,IZE,0.351375,IZE,20201103161208
+102,/currencies/cryptaldash,1161085765,CryptalDash,1.16,CRD,20201103161208
+103,/currencies/counos-x,1051980838,Counos X,59.33,CCXX,20201103161208
+104,/currencies/eterbase-utility-token,820798528,Eterbase Utility Token,0.820799,XBASE,20201103161208
+105,/currencies/ino-coin,538432508,INO COIN,2.99,INO,20201103161208
+106,/currencies/bitcoinpos,501374095,BitcoinPoS,133.10,BPS,20201103161208
+107,/currencies/insight-chain,412774935,Insight Chain,1.18,INB,20201103161208
+108,/currencies/zelwin,312167245,Zelwin,5.18,ZLW,20201103161208
+109,/currencies/homeros,307231997,Homeros,0.824343,HMR,20201103161208
+110,/currencies/renbtc,281302273,renBTC,13519.45,RENBTC,20201103161208
+111,/currencies/creditcoin,268020519,Creditcoin,0.485983,CTC,20201103161208
+112,/currencies/cipher-core-token,264030648,Cipher Core Token,35.53,CIPHC,20201103161208
+113,/currencies/tnc-coin,240888073,TNC Coin,0.104261,TNC,20201103161208
+114,/currencies/basid-coin,237423123,Basid Coin,0.662192,BASID,20201103161208
+115,/currencies/thorecoin,232175533,ThoreCoin,2678.35,THR,20201103161208
+116,/currencies/poseidon-network,197887193,Poseidon Network,0.091918,QQQ,20201103161208
+117,/currencies/largo-coin,167762652,Largo Coin,9.81,LRG,20201103161208
+118,/currencies/stpay,164540514,STPAY,38.00,STP,20201103161208
+119,/currencies/doctors-coin,163060358,Doctors Coin,0.709755,DRS,20201103161208
+120,/currencies/botxcoin,157029345,botXcoin,0.096213,BOTX,20201103161208
+121,/currencies/edc-blockchain-v1,155894591,EDC Blockchain v1 [old],0.058373,EDC,20201103161208
+122,/currencies/bitball-treasure,153094132,Bitball Treasure,340.21,BTRS,20201103161208
+123,/currencies/metacoin,141958877,Metacoin,0.138175,MTC,20201103161208
+124,/currencies/sologenic,122168274,Sologenic,0.610836,SOLO,20201103161208
+125,/currencies/vitae,119333656,Vitae,6.13,VITAE,20201103161208
+126,/currencies/idea-chain-coin,116243930,Idea Chain Coin,2.27,ICH,20201103161208
+127,/currencies/cryptonex,101823038,Cryptonex,1.83,CNX,20201103161208
+128,/currencies/mindol,101324995,MINDOL,0.593100,MIN,20201103161208
+129,/currencies/terra-krw,91150698,TerraKRW,0.000874,KRT,20201103161208
+130,/currencies/beldex,84089241,Beldex,0.085786,BDX,20201103161208
+131,/currencies/helper-search-token,78425561,Helper Search Token,0.009248,HSN,20201103161208
+132,/currencies/strong,76276398,Strong,16.19,STRONG,20201103161208
+133,/currencies/defichain,75015342,DeFiChain,0.197851,DFI,20201103161208
+134,/currencies/xinfin-network,73266325,XinFin Network,0.006006,XDC,20201103161208
+135,/currencies/counos-coin,72044228,Counos Coin,4.85,CCA,20201103161208
+136,/currencies/whitecoin,71669857,WhiteCoin,0.286469,XWC,20201103161208
+137,/currencies/newyork-exchange,70164220,NewYork Exchange,9.90,NYE,20201103161208
+138,/currencies/qcash,69336600,Qcash,0.150732,QC,20201103161208
+139,/currencies/mixin,68790408,Mixin,131.48,XIN,20201103161208
+140,/currencies/attila,68162067,Attila,0.151343,ATT,20201103161208
+141,/currencies/karma-eos,68293132,KARMA,0.012530,KARMA,20201103161208
+142,/currencies/nest-protocol,63876784,NEST Protocol,0.036527,NEST,20201103161208
+143,/currencies/huobi-btc,62616705,Huobi BTC,13017.58,HBTC,20201103161208
+144,/currencies/tratin,61507177,Tratin,0.000549,TRAT,20201103161208
+145,/currencies/bitbook-gambling,60686771,Bitbook Gambling,0.169664,BXK,20201103161208
+146,/currencies/darma-cash,57678399,Darma Cash,0.274314,DMCH,20201103161208
+147,/currencies/mimblewimblecoin,56834993,MimbleWimbleCoin,5.33,MWC,20201103161208
+148,/currencies/yusra,56643771,YUSRA,3.56,YUSRA,20201103161208
+149,/currencies/baer-chain,56286847,Baer Chain,0.323488,BRC,20201103161208
+150,/currencies/joule,55797490,Joule,0.055218,JUL,20201103161208
+151,/currencies/vestchain,55511289,VestChain,0.006593,VEST,20201103161208
+152,/currencies/centrality,54778490,Centrality,0.046359,CENNZ,20201103161208
+153,/currencies/wbnb,54449357,Wrapped BNB,26.79,WBNB,20201103161208
+154,/currencies/math,53037705,MATH,0.472626,MATH,20201103161208
+155,/currencies/neutrino-usd,51886070,Neutrino USD,0.990674,USDN,20201103161208
+156,/currencies/mobilian-coin,51839056,Mobilian Coin,0.448732,MBN,20201103161208
+157,/currencies/axel,42763501,AXEL,0.163731,AXEL,20201103161208
+158,/currencies/advanced-internet-blocks,42175778,Advanced Internet Blocks,0.001742,AIB,20201103161208
+159,/currencies/breezecoin,41634992,Breezecoin,0.416350,BRZE,20201103161208
+160,/currencies/mstable-usd,41051968,mStable USD,0.999158,MUSD,20201103161208
+161,/currencies/tap,40946681,Tap,0.033238,XTP,20201103161208
+162,/currencies/greenpower,39669385,GreenPower,0.012275,GRN,20201103161208
+163,/currencies/1irstcoin,38213560,1irstcoin,1.09,FST,20201103161208
+164,/currencies/bankera,37233076,Bankera,0.001512,BNK,20201103161208
+165,/currencies/s4fe,36515860,S4FE,0.040786,S4F,20201103161208
+166,/currencies/everus,35702650,Everus,0.076652,EVR,20201103161208
+167,/currencies/xenioscoin,34802929,XeniosCoin,0.456283,XNC,20201103161208
+168,/currencies/metaverse-dualchain-network-architecture,34626125,Metaverse Dualchain Network Architecture,0.001921,DNA,20201103161208
+169,/currencies/livepeer,32707814,Livepeer,1.57,LPT,20201103161208
+170,/currencies/keep-network,32416042,Keep Network,0.239195,KEEP,20201103161208
+171,/currencies/helleniccoin,32325311,Hellenic Coin,0.462660,HNC,20201103161208
+172,/currencies/cvault-finance,32283149,cVault.finance,3228.31,CORE,20201103161208
+173,/currencies/the-transfer-token,30572985,The Transfer Token,1.16,TTT,20201103161208
+174,/currencies/uni-coin,29896192,UNI COIN,0.498192,UNI,20201103161208
+175,/currencies/playfuel,29625222,PlayFuel,0.059250,PLF,20201103161208
+176,/currencies/bridge-oracle,29338902,Bridge Oracle,0.003666,BRG,20201103161208
+177,/currencies/ultiledger,29080411,Ultiledger,0.012427,ULT,20201103161208
+178,/currencies/rocket-pool,28948110,Rocket Pool,2.82,RPL,20201103161208
+179,/currencies/redd,28790788,ReddCoin,0.000999,RDD,20201103161208
+180,/currencies/usdk,28410983,USDK,0.993389,USDK,20201103161208
+181,/currencies/deviantcoin,27767533,DeviantCoin,0.917160,DEV,20201103161208
+182,/currencies/titanswap,27269753,TitanSwap,0.510630,TITAN,20201103161208
+183,/currencies/nervenetwork,26859862,NerveNetwork,0.106722,NVT,20201103161208
+184,/currencies/bitmax-token,26461103,BitMax Token,0.040055,BTMX,20201103161208
+185,/currencies/chimpion,26213087,Chimpion,0.826197,BNANA,20201103161208
+186,/currencies/harvest-finance,26106587,Harvest Finance,103.36,FARM,20201103161208
+187,/currencies/btu-protocol,26011062,BTU Protocol,0.288966,BTU,20201103161208
+188,/currencies/c20,25454884,CRYPTO20,0.630029,C20,20201103161208
+189,/currencies/fabrk,25317655,FABRK,0.005281,FAB,20201103161208
+190,/currencies/orbit-chain,25060441,Orbit Chain,0.055017,ORC,20201103161208
+191,/currencies/bytecoin-bcn,24474897,Bytecoin,0.000133,BCN,20201103161208
+192,/currencies/secret,24405117,Secret,0.432747,SCRT,20201103161208
+193,/currencies/stem-cell-coin,24311600,STEM CELL COIN,0.075818,SCC,20201103161208
+194,/currencies/extstock-token,24124159,ExtStock Token,0.040101,XT,20201103161208
+195,/currencies/cryptoindex-com-100,24022026,Cryptoindex.com 100,0.384910,CIX100,20201103161208
+196,/currencies/nectar,23591491,Nectar,0.149771,NEC,20201103161208
+197,/currencies/onotoken,23438532,ONOToken,0.001306,ONOT,20201103161208
+198,/currencies/justliquidity,23344437,JustLiquidity,41.92,JUL,20201103161208
+199,/currencies/native-utility-token,23097938,Native Utility Token,23.50,NUT,20201103161208
+200,/currencies/nebulas-token,14251466,Nebulas,0.248930,NAS,20201103161249
+201,/currencies/stormx,14227449,StormX,0.001889,STMX,20201103161249
+202,/currencies/envion,14154535,Envion,0.111081,EVN,20201103161249
+203,/currencies/molecular-future,14067564,Molecular Future,0.164569,MOF,20201103161249
+204,/currencies/zenon,14039923,Zenon,2.98,ZNN,20201103161249
+205,/currencies/wixlar,13981899,Wixlar,0.005844,WIX,20201103161249
+206,/currencies/perpetual-protocol,13883669,Perpetual Protocol,0.938634,PERP,20201103161249
+207,/currencies/function-x,13749923,Function X,0.059866,FX,20201103161249
+208,/currencies/12ships,13748219,12Ships,0.002798,TSHP,20201103161249
+209,/currencies/lto-network,13742490,LTO Network,0.056497,LTO,20201103161249
+210,/currencies/zbg-token,13645163,ZBG Token,0.051683,ZT,20201103161249
+211,/currencies/bluzelle,13623696,Bluzelle,0.054515,BLZ,20201103161249
+212,/currencies/sentivate,13531158,Sentivate,0.004002,SNTVT,20201103161249
+213,/currencies/rchain,13432296,RChain,0.027816,REV,20201103161249
+214,/currencies/bitkan,13419375,BitKan,0.002084,KAN,20201103161249
+215,/currencies/pancakeswap,13314481,PancakeSwap,0.290583,CAKE,20201103161249
+216,/currencies/level01,13296218,Level01,0.082096,LVX,20201103161249
+217,/currencies/bit-z-token,13260788,Bit-Z Token,0.106047,BZ,20201103161249
+218,/currencies/truechain,13150462,TrueChain,0.165258,TRUE,20201103161249
+219,/currencies/folgory-coin,13027195,Folgory Coin,0.743328,FLG,20201103161249
+220,/currencies/peepcoin,13016963,PeepCoin,0.000092,PCN,20201103161249
+221,/currencies/arpa-chain,12986379,ARPA Chain,0.013557,ARPA,20201103161249
+222,/currencies/stakenet,12816952,Stakenet,0.118532,XSN,20201103161249
+223,/currencies/constellation,12788196,Constellation,0.010094,DAG,20201103161249
+224,/currencies/grin,12774414,Grin,0.225637,GRIN,20201103161249
+225,/currencies/groestlcoin,12750756,Groestlcoin,0.167263,GRS,20201103161249
+226,/currencies/content-value-network,12656279,Content Value Network,0.013682,CVNT,20201103161249
+227,/currencies/bitcoinhd,12648088,BitcoinHD,2.08,BHD,20201103161249
+228,/currencies/qash,12610788,QASH,0.036031,QASH,20201103161249
+229,/currencies/platincoin,12605685,PLATINCOIN,2.52,PLC,20201103161249
+230,/currencies/latoken,12568000,LATOKEN,0.033065,LA,20201103161249
+231,/currencies/standard-tokenization-protocol,12432849,Standard Tokenization Protocol,0.013568,STPT,20201103161249
+232,/currencies/phala-network,12430417,Phala.Network,0.090733,PHA,20201103161249
+233,/currencies/repo,12341573,REPO,0.112238,REPO,20201103161249
+234,/currencies/dusk-network,12272844,Dusk Network,0.044821,DUSK,20201103161249
+235,/currencies/medibloc,12168790,MediBloc,0.004538,MED,20201103161249
+236,/currencies/zap,12152178,Zap,0.051461,ZAP,20201103161249
+237,/currencies/yfvalue,12120813,YFValue,2.65,YFV,20201103161249
+238,/currencies/levolution,12116886,Levolution,0.218835,LEVL,20201103161249
+239,/currencies/yep-coin,12087940,YEP COIN,2.93,YEP,20201103161249
+240,/currencies/ecoreal-estate,12057122,Ecoreal Estate,0.057698,ECOREAL,20201103161249
+241,/currencies/contentos,12051861,Contentos,0.005659,COS,20201103161249
+242,/currencies/drep,12034908,DREP,0.003018,DREP,20201103161249
+243,/currencies/bhp-coin,12010801,BHPCoin,0.595255,BHP,20201103161249
+244,/currencies/beowulf,11964251,Beowulf,0.011964,BWF,20201103161249
+245,/currencies/king-dag,11931765,King DAG,0.243498,KDAG,20201103161249
+246,/currencies/milk-alliance,11909637,MiL.k,0.148465,MLK,20201103161249
+247,/currencies/metaverse,11682741,Metaverse ETP,0.147447,ETP,20201103161249
+248,/currencies/gas,11619648,Gas,1.15,GAS,20201103161249
+249,/currencies/casinocoin,11562064,CasinoCoin,0.000289,CSC,20201103161249
+250,/currencies/usdj,11459057,USDJ,0.994659,USDJ,20201103161249
+251,/currencies/proton,11358499,Proton,0.006065,XPR,20201103161249
+252,/currencies/uca-coin,11285048,UCA Coin,0.007272,UCA,20201103161249
+253,/currencies/vertcoin,11277350,Vertcoin,0.197025,VTC,20201103161249
+254,/currencies/coinmetro-token,11215361,CoinMetro Token,0.040100,XCM,20201103161249
+255,/currencies/aergo,11206918,Aergo,0.042447,AERGO,20201103161249
+256,/currencies/dinastycoin,11138435,Dinastycoin,0.005614,DCY,20201103161249
+257,/currencies/nexus,11110770,Nexus,0.171802,NXS,20201103161249
+258,/currencies/aurora,11085906,Aurora,0.001694,AOA,20201103161249
+259,/currencies/global-digital-content,11063592,Global Digital Content,0.003447,GDC,20201103161249
+260,/currencies/enigma,11037919,Enigma,0.451251,ENG,20201103161249
+261,/currencies/fusion,11004562,Fusion,0.232288,FSN,20201103161249
+262,/currencies/elamachain,10923902,Elamachain,0.014962,ELAMA,20201103161249
+263,/currencies/populous,10844724,Populous,0.203648,PPT,20201103161249
+264,/currencies/moviebloc,10797342,MovieBloc,0.001296,MBL,20201103161249
+265,/currencies/tixl,10799327,Tixl,226.04,MTXLT,20201103161249
+266,/currencies/seele,10798095,Seele-N,0.015435,SEELE,20201103161249
+267,/currencies/moeda-loyalty-points,10744233,Moeda Loyalty Points,0.547368,MDA,20201103161249
+268,/currencies/digixdao,10725793,DigixDAO,73.49,DGD,20201103161249
+269,/currencies/jewel,10694480,Jewel,0.195475,JWL,20201103161249
+270,/currencies/mvl,10590187,MVL,0.001027,MVL,20201103161249
+271,/currencies/lambda,10484740,Lambda,0.012435,LAMB,20201103161249
+272,/currencies/prometeus,10403425,Prometeus,1.70,PROM,20201103161249
+273,/currencies/audius,10400997,Audius,0.086675,AUDIO,20201103161249
+274,/currencies/anchor,10349754,Anchor,0.807683,ANCT,20201103161249
+275,/currencies/project-pai,10294186,Project Pai,0.006941,PAI,20201103161249
+276,/currencies/bella-protocol,10266345,Bella Protocol,0.708024,BEL,20201103161249
+277,/currencies/cocos-bcx,10262889,Cocos-BCX,0.000261,COCOS,20201103161249
+278,/currencies/nkn,10185923,NKN,0.017452,NKN,20201103161249
+279,/currencies/btse,9985258,BTSE,2.29,BTSE,20201103161249
+280,/currencies/liquid-apps,9984615,LiquidApps,0.014368,DAPP,20201103161249
+281,/currencies/dimension-chain,9868575,Dimension Chain,0.040316,EON,20201103161249
+282,/currencies/insights-network,9853371,Insights Network,0.050080,INSTAR,20201103161249
+283,/currencies/darwinia-network,9831617,Darwinia Network,0.031738,RING,20201103161249
+284,/currencies/library-credit,9805077,LBRY Credits,0.020122,LBC,20201103161249
+285,/currencies/karatgold-coin,9741318,Karatgold Coin,0.002060,KBC,20201103161249
+286,/currencies/morpheus-network,9723410,Morpheus.Network,0.206099,MRPH,20201103161249
+287,/currencies/quark,9646610,Quark,0.036123,QRK,20201103161249
+288,/currencies/tachyon-protocol,9618405,Tachyon Protocol,0.036043,IPX,20201103161249
+289,/currencies/rakon,9550450,Rakon,0.077234,RKN,20201103161249
+290,/currencies/venus,9482779,Venus,2.24,XVS,20201103161249
+291,/currencies/einsteinium,9474565,Einsteinium,0.042919,EMC2,20201103161249
+292,/currencies/blocknet,9454651,Blocknet,1.30,BLOCK,20201103161249
+293,/currencies/iqeon,9454488,IQeon,1.72,IQN,20201103161249
+294,/currencies/metadium,9342993,Metadium,0.007502,META,20201103161249
+295,/currencies/spectre-dividend,9329743,Spectre.ai Dividend Token,0.113675,SXDT,20201103161249
+296,/currencies/injective-protocol,9304587,Injective Protocol,0.691365,INJ,20201103161249
+297,/currencies/amo-coin,9307171,AMO Coin,0.000512,AMO,20201103161249
+298,/currencies/quickx-protocol,9267962,QuickX Protocol,0.018598,QCX,20201103161249
+299,/currencies/proximax,9265005,ProximaX,0.001519,XPX,20201103161249
+300,/currencies/orchid,73224727,Orchid,0.199205,OXT,20201103161147
+301,/currencies/golem-network-tokens,72585994,Golem,0.073270,GNT,20201103161147
+302,/currencies/pax-gold,72281139,PAX Gold,1910.23,PAXG,20201103161147
+303,/currencies/dxchain-token,71832626,DxChain Token,0.001437,DX,20201103161147
+304,/currencies/iotex,70990124,IoTeX,0.007293,IOTX,20201103161147
+305,/currencies/kucoin-shares,67034304,KuCoin Shares,0.830368,KCS,20201103161147
+306,/currencies/iostoken,66894571,IOST,0.004387,IOST,20201103161147
+307,/currencies/status,66447234,Status,0.019146,SNT,20201103161147
+308,/currencies/swissborg,66374112,SwissBorg,0.071877,CHSB,20201103161147
+309,/currencies/divi,65913948,Divi,0.033316,DIVI,20201103161147
+310,/currencies/uquid-coin,65770092,Uquid Coin,6.58,UQC,20201103161147
+311,/currencies/solana,65404120,Solana,1.43,SOL,20201103161147
+312,/currencies/nervos-network,64241844,Nervos Network,0.003021,CKB,20201103161147
+313,/currencies/verge,63663209,Verge,0.003886,XVG,20201103161147
+314,/currencies/rsk-infrastructure-framework,62765596,RSK Infrastructure Framework,0.095669,RIF,20201103161147
+315,/currencies/bitcoin-bep2,62051030,Bitcoin BEP2,12407.35,BTCB,20201103161147
+316,/currencies/arweave,61977407,Arweave,1.86,AR,20201103161147
+317,/currencies/balancer,59339432,Balancer,8.55,BAL,20201103161147
+318,/currencies/swipe,59057947,Swipe,0.769315,SXP,20201103161147
+319,/currencies/thorchain,58609126,THORChain,0.369932,RUNE,20201103161147
+320,/currencies/horizen,56628000,Horizen,5.50,ZEN,20201103161147
+321,/currencies/rlc,56544754,iExec RLC,0.706185,RLC,20201103161147
+322,/currencies/storj,56114434,Storj,0.281598,STORJ,20201103161147
+323,/currencies/matic-network,55937445,Matic Network,0.013077,MATIC,20201103161147
+324,/currencies/steem,53386863,Steem,0.135324,STEEM,20201103161147
+325,/currencies/gnosis-gno,52078102,Gnosis,47.15,GNO,20201103161147
+326,/currencies/energi,51606955,Energi,1.50,NRG,20201103161147
+327,/currencies/komodo,50286045,Komodo,0.410163,KMD,20201103161147
+328,/currencies/unibright,48503378,Unibright,0.325964,UBT,20201103161147
+329,/currencies/utrust,48007644,Utrust,0.106684,UTK,20201103161147
+330,/currencies/ardor,46906174,Ardor,0.046953,ARDR,20201103161147
+331,/currencies/chiliz,46312130,Chiliz,0.009412,CHZ,20201103161147
+332,/currencies/kava,46248012,Kava.io,1.38,KAVA,20201103161147
+333,/currencies/yearn-finance-ii,46070937,DFI.Money,1193.67,YFII,20201103161147
+334,/currencies/bitshares,45672408,BitShares,0.015237,BTS,20201103161147
+335,/currencies/maidsafecoin,45552395,MaidSafeCoin,0.100657,MAID,20201103161147
+336,/currencies/electroneum,43735453,Electroneum,0.004285,ETN,20201103161147
+337,/currencies/wax,43736393,WAX,0.031291,WAXP,20201103161147
+338,/currencies/theta-fuel,43393876,Theta Fuel,0.008744,TFUEL,20201103161147
+339,/currencies/serum,42795554,Serum,0.855911,SRM,20201103161147
+340,/currencies/hive-blockchain,42648410,Hive,0.103008,HIVE,20201103161147
+341,/currencies/just,42209716,JUST,0.018674,JST,20201103161147
+342,/currencies/aelf,41902019,aelf,0.076958,ELF,20201103161147
+343,/currencies/bancor,40288609,Bancor,0.575581,BNT,20201103161147
+344,/currencies/hxro,39831076,Hxro,0.217450,HXRO,20201103161147
+345,/currencies/helium,39289345,Helium,0.733833,HNT,20201103161147
+346,/currencies/tomochain,39233086,TomoChain,0.516827,TOMO,20201103161147
+347,/currencies/hypercash,38797042,HyperCash,0.864796,HC,20201103161147
+348,/currencies/curve-dao-token,38613544,Curve DAO Token,0.352820,CRV,20201103161147
+349,/currencies/ankr,38568074,Ankr,0.006616,ANKR,20201103161147
+350,/currencies/quarkchain,37892547,QuarkChain,0.004167,QKC,20201103161147
+351,/currencies/wanchain,37795197,Wanchain,0.223948,WAN,20201103161147
+352,/currencies/hyperion,36756736,Hyperion,0.116038,HYN,20201103161147
+353,/currencies/irisnet,36728766,IRISnet,0.042497,IRIS,20201103161147
+354,/currencies/stratis,36670965,Stratis,0.366635,STRAT,20201103161147
+355,/currencies/stasis-euro,36666550,STASIS EURO,1.15,EURS,20201103161147
+356,/currencies/sharetoken,36603546,ShareToken,0.018642,SHR,20201103161147
+357,/currencies/sun,34629214,SUN,7.56,SUN,20201103161147
+358,/currencies/travala,34504275,Travala.com,0.827556,AVA,20201103161147
+359,/currencies/pundi-x,34352458,Pundi X,0.000146,NPXS,20201103161147
+360,/currencies/ark,33804042,Ark,0.270632,ARK,20201103161147
+361,/currencies/kin,33117540,Kin,0.000022,KIN,20201103161147
+362,/currencies/fantom,32498819,Fantom,0.015218,FTM,20201103161147
+363,/currencies/origintrail,32477523,OriginTrail,0.101594,TRAC,20201103161147
+364,/currencies/solve,32316747,SOLVE,0.086029,SOLVE,20201103161147
+365,/currencies/voyager-token,32308752,Voyager Token,0.145342,VGX,20201103161147
+366,/currencies/flexacoin,32257132,Flexacoin,0.004435,FXC,20201103161147
+367,/currencies/keep3rv1,31741545,Keep3rV1,158.71,KP3R,20201103161147
+368,/currencies/zcoin,31542031,Zcoin,2.82,XZC,20201103161147
+369,/currencies/power-ledger,31483172,Power Ledger,0.074254,POWR,20201103161147
+370,/currencies/melon,31424071,Melon,21.06,MLN,20201103161147
+371,/currencies/singularitynet,31411968,SingularityNET,0.037239,AGI,20201103161147
+372,/currencies/gatetoken,31060727,GateToken,0.406389,GT,20201103161147
+373,/currencies/handshake,30719182,Handshake ,0.096231,HNS,20201103161147
+374,/currencies/v-systems,29665808,v.systems,0.013947,VSYS,20201103161147
+375,/currencies/waykichain,29557191,WaykiChain,0.156387,WICC,20201103161147
+376,/currencies/super-zero-protocol,29524087,Super Zero Protocol,0.099776,SERO,20201103161147
+377,/currencies/aeternity,29053510,Aeternity,0.089621,AE,20201103161147
+378,/currencies/wink-tronbet,28804325,WINk,0.000092,WIN,20201103161147
+379,/currencies/nexalt,28801121,Nexalt,1.48,XLT,20201103161147
+380,/currencies/fetch,28709230,Fetch.ai,0.038478,FET,20201103161147
+381,/currencies/dia,28641860,DIA,1.01,DIA,20201103161147
+382,/currencies/digitex-futures,28449388,Digitex Futures,0.030557,DGTX,20201103161147
+383,/currencies/aion,28068376,Aion,0.058738,AION,20201103161147
+384,/currencies/kleros,27926216,Kleros,0.050431,PNK,20201103161147
+385,/currencies/xdai,27632956,xDai,8.78,STAKE,20201103161147
+386,/currencies/tellor,27118118,Tellor,17.72,TRB,20201103161147
+387,/currencies/elastos,27107754,Elastos,1.57,ELA,20201103161147
+388,/currencies/orbs,27076560,Orbs,0.012142,ORBS,20201103161147
+389,/currencies/wirex-token,26676440,Wirex Token,0.008604,WXT,20201103161147
+390,/currencies/harmony,25839348,Harmony,0.004131,ONE,20201103161147
+391,/currencies/thunder-token,25428457,Thunder Token,0.004319,TT,20201103161147
+392,/currencies/ultra,24822544,Ultra,0.087873,UOS,20201103161147
+393,/currencies/streamr,24135079,Streamr,0.034861,DATA,20201103161147
+394,/currencies/bhex-token,22968242,BHEX Token,0.117401,BHT,20201103161147
+395,/currencies/crypto-com,22926402,MCO,1.45,MCO,20201103161147
+396,/currencies/gxchain,22596809,GXChain,0.322812,GXC,20201103161147
+397,/currencies/switcheo,22587213,Switcheo,0.021103,SWTH,20201103161147
+398,/currencies/syscoin,22414122,Syscoin,0.037393,SYS,20201103161147
+399,/currencies/bosagora,22379693,BOSAGORA,0.079327,BOA,20201103161147
+400,/currencies/bitcoin,249655928115,Bitcoin,13471.55,BTC,
+401,/currencies/ethereum,43537866448,Ethereum,384.40,ETH,
+402,/currencies/tether,16675065946,Tether,1.00,USDT,
+403,/currencies/xrp,10635520225,XRP,0.234859,XRP,
+404,/currencies/bitcoin-cash,4763098782,Bitcoin Cash,256.61,BCH,
+405,/currencies/chainlink,4228181647,Chainlink,10.83,LINK,
+406,/currencies/binance-coin,4063116865,Binance Coin,28.14,BNB,
+407,/currencies/litecoin,3545308253,Litecoin,53.89,LTC,
+408,/currencies/polkadot-new,3470301979,Polkadot,4.07,DOT,
+409,/currencies/bitcoin-sv,2925268085,Bitcoin SV,157.61,BSV,
+410,/currencies/usd-coin,2925289684,USD Coin,1.00,USDC,
+411,/currencies/cardano,2878548171,Cardano,0.092521,ADA,
+412,/currencies/eos,2278856907,EOS,2.43,EOS,
+413,/currencies/monero,2136921238,Monero,120.42,XMR,
+414,/currencies/tron,1757697371,TRON,0.024528,TRX,
+415,/currencies/crypto-com-coin,1686521575,Crypto.com Coin,0.079959,CRO,
+416,/currencies/stellar,1588967450,Stellar,0.076114,XLM,
+417,/currencies/wrapped-bitcoin,1580719285,Wrapped Bitcoin,13363.90,WBTC,
+418,/currencies/tezos,1422151030,Tezos,1.90,XTZ,
+419,/currencies/unus-sed-leo,1263197544,UNUS SED LEO,1.26,LEO,
+420,/currencies/neo,1076284688,Neo,15.26,NEO,
+421,/currencies/cosmos,953912260,Cosmos,4.65,ATOM,
+422,/currencies/multi-collateral-dai,939476481,Dai,0.996647,DAI,
+423,/currencies/nem,886349636,NEM,0.098483,XEM,
+424,/currencies/filecoin,784080150,Filecoin,29.59,FIL,
+425,/currencies/huobi-token,776222366,Huobi Token,3.75,HT,
+426,/currencies/binance-usd,704256193,Binance USD,0.999900,BUSD,
+427,/currencies/iota,684368711,IOTA,0.246217,MIOTA,
+428,/currencies/vechain,648172834,VeChain,0.010078,VET,
+429,/currencies/dash,637642862,Dash,65.10,DASH,
+430,/currencies/theta,593148979,THETA,0.593149,THETA,
+431,/currencies/ethereum-classic,572528269,Ethereum Classic,4.92,ETC,
+432,/currencies/zcash,571915540,Zcash,55.06,ZEC,
+433,/currencies/maker,528394484,Maker,526.73,MKR,
+434,/currencies/uniswap,484342995,Uniswap,2.27,UNI,
+435,/currencies/omg,416615224,OMG Network,2.97,OMG,
+436,/currencies/uma,383965625,UMA,6.94,UMA,
+437,/currencies/compound,366199634,Compound,90.22,COMP,
+438,/currencies/ontology,340212082,Ontology,0.438535,ONT,
+439,/currencies/aave,337750403,Aave,29.95,AAVE,
+440,/currencies/celsius,331910691,Celsius,1.39,CEL,
+441,/currencies/ftx-token,330752459,FTX Token,3.51,FTT,
+442,/currencies/waves,322114275,Waves,3.11,WAVES,
+443,/currencies/dogecoin,319650589,Dogecoin,0.002518,DOGE,
+444,/currencies/yearn-finance,311928001,yearn.finance,10408.80,YFI,
+445,/currencies/bittorrent,283620049,BitTorrent,0.000286,BTT,
+446,/currencies/husd,280552904,HUSD,0.999707,HUSD,
+447,/currencies/synthetix-network-token,275012987,Synthetix Network Token,2.62,SNX,
+448,/currencies/digibyte,271760294,DigiByte,0.019826,DGB,
+449,/currencies/basic-attention-token,271385826,Basic Attention Token,0.182583,BAT,
+450,/currencies/algorand,267775425,Algorand,0.245326,ALGO,
+451,/currencies/okb,257280860,OKB,4.29,OKB,
+452,/currencies/kusama,254341374,Kusama,30.03,KSM,
+453,/currencies/0x,251603295,0x,0.338205,ZRX,
+454,/currencies/trueusd,250861353,TrueUSD,0.999370,TUSD,
+455,/currencies/paxos-standard,244654664,Paxos Standard,0.998786,PAX,
+456,/currencies/ren,223129984,Ren,0.252258,REN,
+457,/currencies/abbc-coin,206828685,ABBC Coin,0.294851,ABBC,
+458,/currencies/celo,195303552,Celo,1.57,CELO,
+459,/currencies/ocean-protocol,193041651,Ocean Protocol,0.466254,OCEAN,
+460,/currencies/qtum,188211334,Qtum,1.93,QTUM,
+461,/currencies/zilliqa,185832590,Zilliqa,0.017550,ZIL,
+462,/currencies/icon,184709553,ICON,0.322702,ICX,
+463,/currencies/hedgetrade,182088489,HedgeTrade,0.536768,HEDG,
+464,/currencies/energy-web-token,175710646,Energy Web Token,5.84,EWT,
+465,/currencies/hedera-hashgraph,173479894,Hedera Hashgraph,0.028890,HBAR,
+466,/currencies/loopring,157418902,Loopring,0.137401,LRC,
+467,/currencies/quant,156152081,Quant,12.93,QNT,
+468,/currencies/kyber-network,150684958,Kyber Network,0.759708,KNC,
+469,/currencies/decred,142370619,Decred,11.67,DCR,
+470,/currencies/augur,134911334,Augur,12.26,REP,
+471,/currencies/lisk,126613817,Lisk,1.00,LSK,
+472,/currencies/bitcoin-gold,122793719,Bitcoin Gold,7.01,BTG,
+473,/currencies/revain,120526480,Revain,0.010495,REV,
+474,/currencies/aragon,118899732,Aragon,3.00,ANT,
+475,/currencies/zb-token,117112066,ZB Token,0.252784,ZB,
+476,/currencies/nxm,114212687,NXM,21.52,NXM,
+477,/currencies/ampleforth,113119102,Ampleforth,1.05,AMPL,
+478,/currencies/terra-luna,112975499,Terra,0.292194,LUNA,
+479,/currencies/the-midas-touch-gold,110342294,The Midas Touch Gold,0.017527,TMTG,
+480,/currencies/siacoin,106508769,Siacoin,0.002368,SC,
+481,/currencies/near-protocol,107195367,NEAR Protocol,0.612978,NEAR,
+482,/currencies/reserve-rights,104871529,Reserve Rights,0.011216,RSR,
+483,/currencies/cybervein,103454312,CyberVein,0.097561,CVT,
+484,/currencies/enjin-coin,101026066,Enjin Coin,0.122734,ENJ,
+485,/currencies/elrond-egld,100264795,Elrond,7.31,EGLD,
+486,/currencies/blockstack,96556259,Blockstack,0.148027,STX,
+487,/currencies/nexo,96498143,Nexo,0.172318,NEXO,
+488,/currencies/nano,94812454,Nano,0.711547,NANO,
+489,/currencies/decentraland,93785038,Decentraland,0.063194,MANA,
+490,/currencies/avalanche,89141757,Avalanche,3.64,AVAX,
+491,/currencies/band-protocol,87000155,Band Protocol,4.25,BAND,
+492,/currencies/sushiswap,85015102,SushiSwap,0.591823,SUSHI,
+493,/currencies/bitcoin-diamond,84465111,Bitcoin Diamond,0.452913,BCD,
+494,/currencies/velas,82393902,Velas,0.039121,VLX,
+495,/currencies/numeraire,82010065,Numeraire,23.10,NMR,
+496,/currencies/monacoin,81496898,MonaCoin,1.24,MONA,
+497,/currencies/ravencoin,81396477,Ravencoin,0.011016,RVN,
+498,/currencies/bytom,76426189,Bytom,0.055219,BTM,
+499,/currencies/orchid,76057548,Orchid,0.206912,OXT,
+500,/currencies/bitcoin,254437415124,Bitcoin,13728.92,BTC,20201103161127
+501,/currencies/ethereum,43365392567,Ethereum,382.82,ETH,20201103161127
+502,/currencies/tether,16704530118,Tether,1.00,USDT,20201103161127
+503,/currencies/xrp,10807868344,XRP,0.238665,XRP,20201103161127
+504,/currencies/bitcoin-cash,4474560271,Bitcoin Cash,241.06,BCH,20201103161127
+505,/currencies/chainlink,4059195199,Chainlink,10.39,LINK,20201103161127
+506,/currencies/binance-coin,3862749919,Binance Coin,26.75,BNB,20201103161127
+507,/currencies/litecoin,3531200843,Litecoin,53.66,LTC,20201103161127
+508,/currencies/polkadot-new,3385869167,Polkadot,3.97,DOT,20201103161127
+509,/currencies/usd-coin,2916691513,USD Coin,1.00,USDC,20201103161127
+510,/currencies/cardano,2891001471,Cardano,0.092921,ADA,20201103161127
+511,/currencies/bitcoin-sv,2854369949,Bitcoin SV,153.79,BSV,20201103161127
+512,/currencies/eos,2204328224,EOS,2.35,EOS,20201103161127
+513,/currencies/monero,2122985844,Monero,119.62,XMR,20201103161127
+514,/currencies/tron,1735544354,TRON,0.024219,TRX,20201103161127
+515,/currencies/crypto-com-coin,1654427827,Crypto.com Coin,0.078356,CRO,20201103161127
+516,/currencies/wrapped-bitcoin,1642791322,Wrapped Bitcoin,13657.83,WBTC,20201103161127
+517,/currencies/stellar,1563373753,Stellar,0.074848,XLM,20201103161127
+518,/currencies/tezos,1397119458,Tezos,1.87,XTZ,20201103161127
+519,/currencies/unus-sed-leo,1251645216,UNUS SED LEO,1.25,LEO,20201103161127
+520,/currencies/neo,1036644714,Neo,14.70,NEO,20201103161127
+521,/currencies/multi-collateral-dai,959183628,Dai,1.01,DAI,20201103161127
+522,/currencies/cosmos,920131989,Cosmos,4.48,ATOM,20201103161127
+523,/currencies/nem,891385540,NEM,0.099043,XEM,20201103161127
+524,/currencies/filecoin,776695055,Filecoin,28.43,FIL,20201103161127
+525,/currencies/huobi-token,756435090,Huobi Token,3.65,HT,20201103161127
+526,/currencies/binance-usd,691910084,Binance USD,1.00,BUSD,20201103161127
+527,/currencies/iota,675793341,IOTA,0.243132,MIOTA,20201103161127
+528,/currencies/dash,624611327,Dash,63.76,DASH,20201103161127
+529,/currencies/vechain,608580019,VeChain,0.009462,VET,20201103161127
+530,/currencies/theta,583675574,THETA,0.583676,THETA,20201103161127
+531,/currencies/ethereum-classic,560664482,Ethereum Classic,4.82,ETC,20201103161127
+532,/currencies/zcash,549269853,Zcash,52.84,ZEC,20201103161127
+533,/currencies/maker,522213189,Maker,520.57,MKR,20201103161127
+534,/currencies/uniswap,451122634,Uniswap,2.11,UNI,20201103161127
+535,/currencies/omg,404439950,OMG Network,2.88,OMG,20201103161127
+536,/currencies/uma,360795449,UMA,6.52,UMA,20201103161127
+537,/currencies/compound,350952283,Compound,86.42,COMP,20201103161127
+538,/currencies/celsius,331310242,Celsius,1.39,CEL,20201103161127
+539,/currencies/ontology,329598526,Ontology,0.424854,ONT,20201103161127
+540,/currencies/waves,325176106,Waves,3.14,WAVES,20201103161127
+541,/currencies/ftx-token,324570070,FTX Token,3.44,FTT,20201103161127
+542,/currencies/dogecoin,317649003,Dogecoin,0.002502,DOGE,20201103161127
+543,/currencies/aave,314542453,Aave,27.87,AAVE,20201103161127
+544,/currencies/yearn-finance,287094719,yearn.finance,9580.14,YFI,20201103161127
+545,/currencies/husd,277878507,HUSD,0.999769,HUSD,20201103161127
+546,/currencies/bittorrent,275821457,BitTorrent,0.000279,BTT,20201103161127
+547,/currencies/basic-attention-token,266889121,Basic Attention Token,0.179497,BAT,20201103161127
+548,/currencies/digibyte,264298851,DigiByte,0.019277,DGB,20201103161127
+549,/currencies/synthetix-network-token,262778345,Synthetix Network Token,2.51,SNX,20201103161127
+550,/currencies/algorand,255836215,Algorand,0.234387,ALGO,20201103161127
+551,/currencies/trueusd,254141973,TrueUSD,0.999037,TUSD,20201103161127
+552,/currencies/okb,250051883,OKB,4.17,OKB,20201103161127
+553,/currencies/paxos-standard,244842538,Paxos Standard,0.999553,PAX,20201103161127
+554,/currencies/kusama,242052009,Kusama,28.58,KSM,20201103161127
+555,/currencies/0x,241078089,0x,0.324057,ZRX,20201103161127
+556,/currencies/ren,228381653,Ren,0.258195,REN,20201103161127
+557,/currencies/abbc-coin,226887690,ABBC Coin,0.323165,ABBC,20201103161127
+558,/currencies/celo,190395260,Celo,1.53,CELO,20201103161127
+559,/currencies/ocean-protocol,189826127,Ocean Protocol,0.458487,OCEAN,20201103161127
+560,/currencies/hedgetrade,188294541,HedgeTrade,0.555062,HEDG,20201103161127
+561,/currencies/icon,182611457,ICON,0.318953,ICX,20201103161127
+562,/currencies/qtum,180552755,Qtum,1.85,QTUM,20201103161127
+563,/currencies/zilliqa,180442043,Zilliqa,0.017034,ZIL,20201103161127
+564,/currencies/energy-web-token,178440716,Energy Web Token,5.94,EWT,20201103161127
+565,/currencies/hedera-hashgraph,172078846,Hedera Hashgraph,0.028650,HBAR,20201103161127
+566,/currencies/quant,152947930,Quant,12.67,QNT,20201103161127
+567,/currencies/augur,146864100,Augur,13.35,REP,20201103161127
+568,/currencies/kyber-network,146797258,Kyber Network,0.740107,KNC,20201103161127
+569,/currencies/loopring,146363761,Loopring,0.127752,LRC,20201103161127
+570,/currencies/decred,145571471,Decred,11.93,DCR,20201103161127
+571,/currencies/the-midas-touch-gold,132297626,The Midas Touch Gold,0.020748,TMTG,20201103161127
+572,/currencies/lisk,123667507,Lisk,0.979086,LSK,20201103161127
+573,/currencies/ampleforth,122881320,Ampleforth,1.13,AMPL,20201103161127
+574,/currencies/bitcoin-gold,121296516,Bitcoin Gold,6.93,BTG,20201103161127
+575,/currencies/revain,120099558,Revain,0.010458,REV,20201103161127
+576,/currencies/zb-token,114642751,ZB Token,0.247454,ZB,20201103161127
+577,/currencies/aragon,113330552,Aragon,2.86,ANT,20201103161127
+578,/currencies/terra-luna,111414155,Terra,0.288234,LUNA,20201103161127
+579,/currencies/siacoin,109942976,Siacoin,0.002444,SC,20201103161127
+580,/currencies/nxm,100994892,NXM,19.42,NXM,20201103161127
+581,/currencies/elrond-egld,100303914,Elrond,7.32,EGLD,20201103161127
+582,/currencies/reserve-rights,99843139,Reserve Rights,0.010678,RSR,20201103161127
+583,/currencies/blockstack,98786168,Blockstack,0.151446,STX,20201103161127
+584,/currencies/near-protocol,98633355,NEAR Protocol,0.564017,NEAR,20201103161127
+585,/currencies/cybervein,98815153,CyberVein,0.093186,CVT,20201103161127
+586,/currencies/nano,97665502,Nano,0.732959,NANO,20201103161127
+587,/currencies/enjin-coin,97613516,Enjin Coin,0.118588,ENJ,20201103161127
+588,/currencies/nexo,95705176,Nexo,0.170902,NEXO,20201103161127
+589,/currencies/decentraland,92792890,Decentraland,0.062526,MANA,20201103161127
+590,/currencies/numeraire,90620010,Numeraire,25.10,NMR,20201103161127
+591,/currencies/ravencoin,85366096,Ravencoin,0.011542,RVN,20201103161127
+592,/currencies/band-protocol,82861148,Band Protocol,4.04,BAND,20201103161127
+593,/currencies/monacoin,81346157,MonaCoin,1.24,MONA,20201103161127
+594,/currencies/velas,81320850,Velas,0.038608,VLX,20201103161127
+595,/currencies/avalanche,81359874,Avalanche,3.32,AVAX,20201103161127
+596,/currencies/holo,75205944,Holo,0.000451,HOT,20201103161127
+597,/currencies/sushiswap,74583451,SushiSwap,0.518277,SUSHI,20201103161127
+598,/currencies/bitcoin-diamond,74113581,Bitcoin Diamond,0.397407,BCD,20201103161127
+599,/currencies/bytom,74118779,Bytom,0.053541,BTM,20201103161127
