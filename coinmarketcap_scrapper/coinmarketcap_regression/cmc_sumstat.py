@@ -1,6 +1,9 @@
 import os
 import pandas as pd
 
+df = pd.read_csv('coinmarketcap_dataset.csv')
+df_reorder = df[['name', 'price', 'marketcap', 'symbol', 'link', 'time']] # rearrange 
+df_reorder.to_csv('coinmarketcap_dataset_reorder.csv', index=False)
 
 df = pd.read_csv("coinmarketcap_dataset_reorder.csv")
 # print(df)
